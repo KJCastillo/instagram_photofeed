@@ -1,0 +1,45 @@
+body {
+    background: rgb(224, 224, 224);
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 13px;
+}
+
+header {
+    background: white;
+    overflow: hidden;
+}
+
+div {
+    box-sizing: border-box;
+}
+
+.content {
+    width: 600px;
+    margin: auto;
+}
+
+.post {
+    background: white;
+    margin-top: 50px;
+}
+
+img {
+    width: 100%;
+}
+
+h2 {
+    float: left;
+    padding-left: 10px;
+}
+
+h3 {
+    float: right;
+    padding-right: 10px;
+    color: rgb(224, 224, 224);
+}
+
+p {
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
